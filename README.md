@@ -1,0 +1,2 @@
+# Research_on_the_duration_of_movies_Netflix
+Исследование продолжительности фильмов с течением времени
